@@ -1,0 +1,39 @@
+# Keil MDK files
+*.o
+*.a
+*.obj
+*.elf
+*.hex
+*.lst
+*.map
+Objects/
+Listings/
+Debug/
+Release/
+*.uvopt
+*.uvgui.*
+*.bak
+*.ddk
+*.edk
+*.scvd
+*.uvguix.*
+
+# Proteus files
+*.bak
+*.pdsprj.lck
+*.$$$
+*.pwi
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
